@@ -1,0 +1,4 @@
+1. Scrieti un program care verifica paritatea numarului din fisierul de input.
+2. Scrieti un program care face suma numerelor din fisierul de input. 
+3. Scrieti un program care face media notelor unui student din fisierul de input. 
+4. Scrieti un program care face cmmdc a numerelor date in fisierul de input.

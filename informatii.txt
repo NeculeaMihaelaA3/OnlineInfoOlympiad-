@@ -1,0 +1,6 @@
+Numarul maxim de participanti este: 5.
+Modul de notare este urmatorul: daca raspunzi bine ai 10 puncte si mai poti primi inca 2 daca nr de linii este mai mic decat maximul si daca ai rezolvat inaintea terminarii timpului. Ai 5 puncte daca programul ruleaza, dar raspunsul nu este corect. Daca programul nu ruleaza ai 1 punct din oficiu.
+1: 2,  10
+2: 5,  6
+3: 3,  12
+4: 10, 15
